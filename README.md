@@ -1,2 +1,2 @@
-# Gezegenlerde-Ka-Kilosun-
+# Gezegenlerde-Kac-Kilosun-
 Kotlin ile Mobil Kodlama
